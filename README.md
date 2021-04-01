@@ -5,4 +5,4 @@ Repo for python script pulling and visualizing US DOL Weekly Claims and Extended
 ETA-539 data can be found at:
 https://oui.doleta.gov/unemploy/DataDownloads.asp
 
-> Select 'Raw Data'
+> Scroll down, locate ETA-539, select 'Raw Data' link
