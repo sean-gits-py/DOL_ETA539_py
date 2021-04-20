@@ -1,7 +1,7 @@
 import pandas as pd
-import ssl
+#import ssl
 
-ssl._create_default_https_context = ssl._create_unverified_context
+#ssl._create_default_https_context = ssl._create_unverified_context
 
 csv_url = 'https://oui.doleta.gov/unemploy/csv/ar539.csv'
 df = pd.read_csv(csv_url)
